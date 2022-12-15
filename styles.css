@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+table{
+   border: 2px solid black;
+   
+   height: 600px;
+   width: 600px;
+   border-collapse: collapse;
+}
+td,th{
+    text-align: center;
+    border: 2px solid black;
+}
+th{
+    background-color:cornflowerblue;
+}
